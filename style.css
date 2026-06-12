@@ -14,7 +14,6 @@ body{
     color:#245863;
 }
 
-/* Navbar */
 
 .navbar{
     background:#cbefe9;
@@ -75,7 +74,6 @@ body{
     }
 }
 
-/* Header */
 
 header{
     text-align:center;
@@ -92,8 +90,6 @@ header p{
     margin:auto;
     line-height:1.8;
 }
-
-/* Cards */
 
 .cards,
 .gallery .cards,
@@ -140,7 +136,6 @@ header p{
     margin-bottom:20px;
 }
 
-/* Footer */
 
 footer{
     text-align:center;
@@ -149,7 +144,6 @@ footer{
     margin-top:40px;
 }
 
-/* Mobile */
 
 @media(max-width:768px){
 
@@ -177,8 +171,6 @@ header h1{
 
 }
 
-
-/* Thank You Page */
 
 .thank-you{
     display:flex;
